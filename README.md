@@ -8,4 +8,4 @@ You can view or download the PDF here:
 
 [Open the PDF for ReceiptGenerator.java](./Programming_Assignment_1_Receipt_Generator.pdf)
 
-[Open the PDF for DiceRollSimulation.java](./Programming_Assignment_2_Dice_Histogram.pdf)
+[Open the PDF for DiceRollSimulation](./docs/Programming_Assignment_2_Dice_Histogram.pdf)
