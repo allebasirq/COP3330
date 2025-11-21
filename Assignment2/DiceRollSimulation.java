@@ -1,12 +1,11 @@
 // Author: Isabella Rodrigues Quesada
-// PID: 5770193 && NID: is749945
 // Assignment 2
 // Note: This program uses a Die class to create a Dice object. It uses randomness to roll the die and gets the sum of the faces for the dice.
 // Finally, it outputs the frequency of sum of the dice in formatted manner and illustrates a histogram based on the data.
 
 package assignment2;
 
-public class Quesada_Isabella {
+public class DiceRollSimulation {
 	
 	static final int MAX_ROLLS = 1000;						// Number of rolls given in the instructions
 	static final int MAX_NUM = 12;							// Since the max of one faceValue of die is 6, two dies max will be 12
