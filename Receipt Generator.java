@@ -1,5 +1,4 @@
 // Author: Isabella Rodrigues Quesada
-// PID: 5770193 && NID: is749945
 // Assignment 1
 // Note: This program prints out a receipt from fictitious store with a randomly generated receipt number and date.
 // It collects input from user (items and prices) and outputs the total of items and total price.
