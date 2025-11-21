@@ -6,4 +6,4 @@ Welcome! This repository contains the programming assignments for the Object-Ori
 ## Assignments PDF
 You can view or download the PDF here:
 
-[Open the PDF](./Programming_Assignment_1_Receipt_Generator.pdf)
+[Open the PDF for ReceiptGenerator.java](./Programming_Assignment_1_Receipt_Generator.pdf)
