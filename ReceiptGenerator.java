@@ -8,7 +8,7 @@ package assignment1;
 import java.util.Scanner;
 import java.util.Random;
 
-public class Quesada_Isabella {
+public class ReceiptGenerator {
 	
 	static final int MAX_ASTERISK = 30;
 	static final int ASTERISK_INNER_LOGO = 6;
