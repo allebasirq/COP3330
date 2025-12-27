@@ -1,5 +1,4 @@
 // Author: Isabella Rodrigues Quesada
-// PID: 5770193 && NID: is749945
 // Assignment 4
 // Note: This program will create and populate a linked list with numbers given from a file. I will only create each individual node that fit in the requirement
 //		 of values greater then zero. Eventually, it will process the final list based on the condition X[i] = X[i-1] x 2 + 7, where i indicates our current node.
