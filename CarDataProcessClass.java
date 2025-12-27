@@ -1,5 +1,4 @@
 // Author: Isabella Rodrigues Quesada
-// PID: 5770193 && NID: is749945
 // Assignment 3
 // Note: This program will create and populate an Array List with different cars - including brand name, price and battery type (for the electric cars) - and output
 // an overall summary of each object and the total price of all cars. The main goal is of this assignment is to practice inheritance, polymorphism and handling data files.
